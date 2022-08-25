@@ -1,6 +1,6 @@
 # Web Graphical User Interface for PX4/APM powered UAVs
 
-![alt text](https://github.com/JulienRineau/mavros-web-gui/blob/main/Images/ipad_iphone_logo.png?raw=true)
+![alt text](https://github.com/JulienRineau/mavros-web-gui/blob/main/Images/ipad_iphone.png?raw=true)
 
 ## 💭 Background
 

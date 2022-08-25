@@ -9,6 +9,7 @@ This web Graphical User Interface (GUI) was realized within the context of the [
 ## 🛠 Stack
 
 - Flight Controller: [PX4](https://px4.io)/[ArduPilot](https://ardupilot.org)
+- Tested ROS Version: Noetic
 - ROS packages: [Mavros](https://wiki.ros.org/mavros), [Rosbridge](https://wiki.ros.org/rosbridge_suite)
 - Web stack: [React](https://fr.reactjs.org), [Roslibjs](https://wiki.ros.org/roslibjs)
 

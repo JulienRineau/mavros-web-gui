@@ -4,7 +4,7 @@
 
 ## 💭 Background
 
-This web Graphical User Interface (GUI) was realized within the context of the [Dassault UAV challenge](https://www.dassault-aviation.com/fr/groupe/actualites/dassault-aviation-uav-challenge-2022-a-vos-candidatures/) by the [Arts et Métier](https://www.artsetmetiers.fr/en) team. This GUI was build to create de friendly and easy to understand interface to control a drone remotely 5G though any connected device.
+This web Graphical User Interface (GUI) was realized within the context of the [Dassault UAV challenge](https://www.dassault-aviation.com/fr/groupe/actualites/dassault-aviation-uav-challenge-2022-a-vos-candidatures/) by the [Arts et Métier](https://www.artsetmetiers.fr/en) team. It is a friendly and easy to understand interface to control remotely a drone through any connected device.
 
 ## 🛠 Stack
 
